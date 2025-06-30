@@ -1,0 +1,3 @@
+The UTM Generator Tool is a convenient solution for marketers, enabling effortless creation of trackable campaign URLs. With intuitive fields for source, medium, campaign, term, and content, this tool simplifies the process of crafting comprehensive UTM parameters that can be easily integrated into your marketing strategies. Generate customized URLs in seconds to monitor the success of your marketing campaigns, gain deeper insights into audience engagement, and optimize future efforts with accurate data analytics. Click to copy and start tracking today!
+
+Live demo: https://bertan.net/utm-generator/
